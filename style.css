@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url("https://lh3.googleusercontent.com/drive-storage/AJQWtBPpCscVBJS_sK6lpHJwSL0U4SNwoakLksV9AVZe8P5zOBAtm3do0r_L1h2DdTinQ3LVnvDshYrG6rjr5pgKC55E9YFIwq6VXlbfNScZ1FBpEw=w1600-h757");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+   
+}
+
+#mensagem {
+    color: #007BFF;
+    font-weight: bold;
+}
+
+#textoAlterado {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+label{
+    color:#ffffff
+}
+p {
+    color: #ffffff;
+    text-decoration: none;
+}
